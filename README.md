@@ -1,12 +1,12 @@
 # Wuxi
 SEGA SATURN ODE/CD SWITCHER
-# 世嘉土星光驱通道切换器
+# Sega Saturn optical drive channel switcher
 
-# 商业使用时不能修改PCB和文字标识
+# PCB and text logo cannot be modified for commercial use
 
-# 商业使用时不能修改PCB和文字标识
+# PCB and text logo cannot be modified for commercial use
 
-# 商业使用时不能修改PCB和文字标识
+# PCB and text logo cannot be modified for commercial use
 
 ![IMG_1346](https://github.com/user-attachments/assets/87a86e58-7446-4da5-a40e-53ccefaf4499)
 ![IMG_1352](https://github.com/user-attachments/assets/8a4a5acc-0f4e-407e-b5a0-dd016d1c7053)
